@@ -11,4 +11,7 @@ table{
 .picture{
 	width:200px;
 }
-
+.imageContainer{
+	background-color:grey;
+	width:1100px;
+}
